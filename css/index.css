@@ -1,0 +1,125 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+ul li {
+	padding-right: 40px;
+}
+
+.img {
+
+	background-image: url('../img/bg-banner.jpg');
+	background-size: cover;
+	position: relative;
+	height: 700px;
+	
+}
+
+.service{
+
+	margin-top: 120px;
+	text-align: center;
+	color:#dc3545;
+	margin-bottom: 20px;
+}
+
+.service p{
+
+	color:black;
+}
+
+.about{
+	text-align: center;
+	margin-top: 100px;
+	background-color:#dc3545;
+	color: #fff; 
+}
+
+.about h1{
+	padding-top: 30px;
+}
+
+.about p{
+	padding:2% 8%;
+}
+
+.border{
+  width: 70px;
+  height: 1px;
+ /* background-color: #dc3545;*/
+  margin: 20px auto;
+}
+
+
+.testimonial{
+
+	margin-top: 60px;
+	text-align: center;
+	color:#dc3545;
+}
+
+.testimonial p{
+	color:black;
+}
+
+
+.contact {
+
+	 margin-top: 80px;
+	text-align: center;
+	color:#fff;
+	background-color:#dc3545;
+}
+
+.contact p{
+	color:#fff;
+}
+
+.icon{
+
+	font-size: 25px;
+   
+}
+
+.facebook {
+    color:blue;
+}
+.google {
+    color: #fff;
+}
+.linkedin {
+    color: #2C3E50;
+}
+.twitter {
+    color: #3498DB;
+}
+
+
+.foot p{
+	padding-top: 2%;
+	color:#dc3545;
+	text-align: center
+}
+
+
+
+
+.banner{
+	background-image: url('../img/bg-banner.jpg');
+	/*background-color: lightblue;*/
+	background-size: cover ;
+	position: relative;
+	height: 500px;
+	 
+
+}
+
+.banner p{
+
+	padding-top: 200px;
+	font-size: 25px;
+	text-align: center;
+	color: black;
+}
